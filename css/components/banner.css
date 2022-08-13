@@ -4,7 +4,7 @@
   background-position: center;
   background-size: cover;
   width: 250;
-  height: 400px;
+  height: 600px;
 }
 
   .container {
@@ -29,5 +29,5 @@
   .btn-call-action:hover {
     background-color: #FEE0C0;
     color: grey;
-    
+
     }
