@@ -1,0 +1,33 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),
+  url("https://belessaesthetic.com/wp-content/uploads/2019/10/masajes-en-zaragoza.jpg");
+  background-position: center;
+  background-size: cover;
+  width: 250;
+  height: 400px;
+}
+
+  .container {
+  padding: 130px
+  }
+  .container h1 {
+  color: #FEE0C0;
+  font-size: 45px;
+  margin-bottom: 5px;
+  }
+  .container p {
+    color: #FF7C7C;
+    font-size: 25px;
+   margin-top: 5px;
+      }
+  .btn-call-action {
+    background-color: #B9005B;
+    padding: 8px;
+    border-radius: 6px;
+  color: #FEE0C0;
+  }
+  .btn-call-action:hover {
+    background-color: #FEE0C0;
+    color: grey;
+    
+    }

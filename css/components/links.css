@@ -1,0 +1,12 @@
+.links {
+  text-align: center;
+  font-size: 35px;
+  color: #F7C7CB;
+  background-color: #B9005B;
+}
+.links p {
+font-size: 15px;
+color: #FF7C7C;
+padding-bottom: 20px;
+}
+.links a {color:#F7C7CB}
